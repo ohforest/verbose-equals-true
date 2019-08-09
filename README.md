@@ -1,3 +1,9 @@
+# ⚠️This project has moved to a new GitLab rep⚠
+
+This project has migrated to a new GitLab repo in a group:
+
+[https://gitlab.com/verbose-equals-true/django-postgres-vue-gitlab-ecs](https://gitlab.com/verbose-equals-true/django-postgres-vue-gitlab-ecs)
+
 <span>
 <a href="https://gitlab.com/briancaffey/verbose-equals-true/commits/master"><img alt="pipeline status" src="https://gitlab.com/briancaffey/verbose-equals-true/badges/master/pipeline.svg" /></a>
 </span> <span>&nbsp;</span>
